@@ -1,0 +1,3 @@
+#!/Users/ayushi/Documents/data_pipeline/Realtime-Data-Streaming-Pipeline/venv/bin/python
+from spark import spark_admin
+spark_admin.main()
