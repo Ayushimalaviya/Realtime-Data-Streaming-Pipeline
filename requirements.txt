@@ -11,3 +11,4 @@ requests-toolbelt==0.9.1
 tzdata==2023.4
 urllib3==1.26.7
 apache-airflow==2.6.0
+cassandra-driver>=3.29.0
