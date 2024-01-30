@@ -32,16 +32,16 @@ Cassandra: Where the processed data will be stored.
 ###### Technologies
 _________________________________________________________________________________________________________________________________________
 
-Apache Airflow = 2.6.0
-Python >= 3.9
-Apache Kafka 
-Apache Zookeeper
-Apache Spark = 3.4.1
-Cassandra
-PostgreSQL = 14.0
-Docker
-Java = 11.0.22 
-Scala = 2.12
+- Apache Airflow = 2.6.0
+- Python >= 3.9
+- Apache Kafka 
+- Apache Zookeeper
+- Apache Spark = 3.4.1
+- Cassandra
+- PostgreSQL = 14.0
+- Docker
+- Java = 11.0.22 
+- Scala = 2.12
 
 Note: Setup the environment according to given dependencies. 
 
